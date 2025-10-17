@@ -26,4 +26,4 @@ hoeft niet
 ## Beurtenlog
 - beurt1: <Dylan> gokt "E"
 - (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+- beurt2: <Anna-Maria> gokt "K"
