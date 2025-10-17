@@ -5,9 +5,9 @@ hoeft niet
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
-1. <Ilham 1> – <email1@example.com>
+1. <Dylan 1> – <email1@example.com>
 2. <Anna-Maria 2> – <email2@example.com>
-3. <Dylan 3> – <email3@example.com>
+3. <Ilham 3> – <email3@example.com>
 4. <Nick 4> – <email4@example.com>
 
 ---
@@ -19,16 +19,14 @@ hoeft niet
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/2.png)
+![status](images/3.png)
 
 ---
 
 ## Beurtenlog
 - beurt1: <Dylan> gokt "E"
-<<<<<<< HEAD
-- (Git-master vult hier reactie in: goed/fout + updates)
+- Fout
 - beurt2: <Anna-Maria> gokt "K"
-=======
--fout + 
-- beurt2: ...
->>>>>>> b98aaa09dd9e7ab901ac75f66400913f446b6451
+- fout + 
+- beurt3: ...
+
