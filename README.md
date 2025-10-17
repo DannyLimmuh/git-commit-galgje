@@ -19,11 +19,11 @@ hoeft niet
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
 ## Beurtenlog
 - beurt1: <Dylan> gokt "E"
-- (Git-master vult hier reactie in: goed/fout + updates)
+-fout + 
 - beurt2: ...
