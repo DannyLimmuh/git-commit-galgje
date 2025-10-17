@@ -24,6 +24,6 @@ hoeft niet
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "?"
+- beurt1: <Dylan> gokt "E"
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: ...
